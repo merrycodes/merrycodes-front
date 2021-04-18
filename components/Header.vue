@@ -16,8 +16,8 @@
 </template>
 
 <script type="text/ecmascript-6">
-import GithubCorner from './GithubCorner'
 import _ from 'underscore'
+import GithubCorner from './GithubCorner'
 
 const staticMenu = [
   { path: '/', name: '首页' },

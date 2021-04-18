@@ -3,8 +3,8 @@
 </template>
 
 <script>
-import defaultConfig from '../config/default-config'
 import Gitalk from 'gitalk'
+import defaultConfig from '../config/default-config'
 
 export default {
   mounted() {

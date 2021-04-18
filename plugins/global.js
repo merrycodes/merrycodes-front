@@ -1,8 +1,8 @@
+import Vue from 'vue'
 import util from './tools'
 import * as filters from './filters'
 import clickOutside from './clickoutside'
 import { highlight } from './highlight'
-import Vue from 'vue'
 
 Vue.prototype.$util = util
 
